@@ -1,6 +1,6 @@
-# 🛡️ fake-aadhar-detection
+# 🛡️ Fake-AADHAAR-Cards-Detection & Credit-Cards-Detection
 
-A machine learning project for detecting **fake Aadhar cards** and **credit cards** using deep learning and ensemble techniques. This repository includes modular Jupyter notebooks leveraging models like **VGG16**, **MobileNetV2**, and **ResNet50**, combined with **XGBoost**, to classify and verify the authenticity of document images.
+A machine learning project for detecting **Fake-AADHAAR-Card-Detection** and **credit cards** using deep learning and ensemble techniques. This repository includes modular Jupyter notebooks leveraging models like **VGG16**, **MobileNetV2**, and **ResNet50**, combined with **XGBoost**, to classify and verify the authenticity of document images.
 
 ---
 
