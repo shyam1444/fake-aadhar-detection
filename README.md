@@ -22,15 +22,6 @@ This project aims to develop robust models for detecting **fake Aadhar cards and
 
 ---
 
-## 📁 Folder Structure
-├── E_Gov_Project_VGG16_+_XG_Boost.ipynb
-├── e-gov-project-mobilenetv2-xg-boost.ipynb
-├── e-gov-project-resnet50-xg-boost.ipynb
-├── resnet50-xgboost-creditcards.ipynb
-└── README.md
-
----
-
 ## 📦 Datasets
 
 ### 🆔 **Synthetic Aadhar Card Dataset**  
